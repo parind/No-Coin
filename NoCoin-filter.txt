@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Version: 201710040700
+! Title: NoCoin List
+! Last modified: 04 Oct 2017 07:00 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/parind/No-Coin
+! Please report any unblocked miners or problems
+! in the Issues Tab of my repo (https://github.com/parind/No-Coin/issues)
+!Testing purposes only !
+!
+*://coinhive.com/lib*
+*://coin-hive.com/lib*
+*://coinhive.com/captcha*
+*://coin-hive.com/captcha*
+wss://*.coinhive.com/proxy*
+wss://*.coin-hive.com/proxy*
+*://jsecoin.com/server*
+*://*.jsecoin.com/server*
+*://static.reasedoper.pw/*
+*://mataharirama.xyz/*
+*://listat.biz/*
+*://lmodr.biz/*
+*://minecrunch.co/web/*
+*://minemytraffic.com/*
